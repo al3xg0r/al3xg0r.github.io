@@ -1,2 +1,4 @@
-# al3xg0r.github.io
-Page
+# Information
+
+Information page.
+More: https://alexgor.com
